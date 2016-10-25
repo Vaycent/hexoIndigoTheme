@@ -15,6 +15,10 @@ menu:
     url: /archives
 #  tags:
 #    url: /tags
+
+  CSDN:
+    url: http://blog.csdn.net/vaycent
+    target: _blank
   github:
     url: https://github.com/vaycent
     target: _blank
