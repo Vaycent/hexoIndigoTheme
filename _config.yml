@@ -16,9 +16,7 @@ menu:
 #  tags:
 #    url: /tags
 
-  CSDN:
-    url: http://blog.csdn.net/vaycent
-    target: _blank
+  
   github:
     url: https://github.com/vaycent
     target: _blank
@@ -31,8 +29,13 @@ menu:
     url: https://www.linkedin.com/in/vaycent
     target: _blank
 
+  CSDN:
+    text: CSDN中文
+    url: http://blog.csdn.net/vaycent
+    target: _blank
+
   book:
-    text: Douban Reading
+    text: 豆瓣读书
     url: https://book.douban.com/people/vaycentsun/collect?sort=title&start=0&filter=all&mode=list&tags_sort=name
     target: _blank
 	
