@@ -29,10 +29,10 @@ menu:
     url: https://www.linkedin.com/in/vaycent
     target: _blank
 
-  CSDN:
-    text: CSDN中文
-    url: http://blog.csdn.net/vaycent
-    target: _blank
+#  CSDN:
+#    text: CSDN中文
+#    url: http://blog.csdn.net/vaycent
+#    target: _blank
 
   book:
     text: 豆瓣读书
