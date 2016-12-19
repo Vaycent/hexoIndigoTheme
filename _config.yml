@@ -16,7 +16,8 @@ menu:
 #  tags:
 #    url: /tags
 
-  
+ #  note:
+  # url: /note
   github:
     url: https://github.com/vaycent
     target: _blank
@@ -34,13 +35,20 @@ menu:
 #    url: http://blog.csdn.net/vaycent
 #    target: _blank
 
+  
+	
+  steam:
+    url: http://steamcommunity.com/id/vaycentsun
+    target: _blank
+
   book:
     text: 豆瓣读书
     url: https://book.douban.com/people/vaycentsun/collect?sort=title&start=0&filter=all&mode=list&tags_sort=name
     target: _blank
-	
-  steam:
-    url: http://steamcommunity.com/id/vaycentsun
+
+  pencil:
+    text: 云笔记
+    url: https://github.com/Vaycent/VaycentNotes
     target: _blank
 
 
